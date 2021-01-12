@@ -54,4 +54,4 @@ def monopoly_with_fourth_tier
   temp_hash
 end
 
-puts monopoly_with_fourth_tier
+puts monopoly_with_third_tier
